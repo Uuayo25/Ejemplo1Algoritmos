@@ -22,7 +22,8 @@ public class GITHUB {
         nombre=lector.netx();
         System.out.println("ingrese su edad");
         edad=lector.next();
-    
+        System.out.println("ingrese su telefono");
+        telefono=lector.netx();
     }
     
 }
